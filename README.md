@@ -19,3 +19,9 @@ Download and Unzip omnetpp and put it at the root of E drive: https://omnetpp.or
 Put veins-veins-4.7.1 at the root of C drive
 
 Run build at omnetpp IDE
+
+
+![image](https://github.com/DaseinDa/Vehicle-2X_V2V_Communication/blob/main/screen2.PNG)
+
+
+![image](https://github.com/DaseinDa/Vehicle-2X_V2V_Communication/blob/main/screen1.PNG)
