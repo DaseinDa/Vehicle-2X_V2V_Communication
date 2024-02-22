@@ -14,7 +14,7 @@ g++ 17
 
 The source code is at: ./veins-veins-4.7.1/src
 
-Unzip omnetpp and put it at the root of E drive
+Download and Unzip omnetpp and put it at the root of E drive: https://omnetpp.org/download/
 
 Put veins-veins-4.7.1 at the root of C drive
 
